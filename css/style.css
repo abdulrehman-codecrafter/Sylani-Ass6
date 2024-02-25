@@ -228,3 +228,17 @@ nav{
     color: white;
     display: inline-block;
 }
+
+@media  screen and (max-width:576px) {
+    .container{
+        width: 90%;
+    }
+    .projects{
+        justify-content: center;
+    }
+    .cards{
+        justify-content: center;
+    }
+    
+    
+}
